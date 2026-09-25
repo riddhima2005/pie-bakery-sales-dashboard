@@ -27,7 +27,7 @@ An interactive Power BI dashboard built to analyze Pie Bakery sales performance 
 
 ## Dashboard Preview
 
-![Pie Bakery Sales Dashboard](dashboard.png)
+![Pie Bakery Sales Dashboard](./dashboard.png)
 
 ## Project Files
 
